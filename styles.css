@@ -1,0 +1,50 @@
+.playfair-display{
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.eb-garamond{
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+
+body{
+  background-color: silver;
+}
+img{
+  justify-content: center;
+}
+h1{
+  font-size:50px; 
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+
+p{
+  font-size: 20px;
+  text-align: left; 
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+#date{
+  font-size: 20px;
+  font-weight: normal;
+  text-align: center;
+}
+
+.chart {
+  display: flex;
+    justify-content: center;
+}
+
+.center-photo {
+  width: 100%;
+  text-align: center;
+}
